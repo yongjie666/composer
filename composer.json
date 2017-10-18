@@ -1,0 +1,12 @@
+{
+    "name": "yyj/hello",
+    "description": "an example of package",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Hello\\": "src/"
+        }
+    }
+}
